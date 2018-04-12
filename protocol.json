@@ -1,0 +1,25 @@
+﻿{
+  "ProtocolConfiguration": {
+    "Magic": 207768,
+    "AddressVersion": 23,
+    "SecondsPerBlock": 15, 
+    "StandbyValidators": [
+      "02214d90cc1df8ba0b52994a436424f65bb24268bc1d20f0631684cdffc331a1f7",
+      "02c59c5f255fd1667c608a082c037cfddbaa40294ca0fde472c449cd216dd5e18b",
+      "027fd27fbee5d2eb2c6d79dcd24434509395ac46b2449ccc6e49f6fbcbc6ca944f",
+      "02610f162cef313bc9027de5738614496707e92437d50fea8b97548618807f16ee"
+    ],
+    "SeedList": [
+      "ec2-18-144-75-155.us-west-1.compute.amazonaws.com:10333",
+      "ec2-18-188-44-144.us-east-2.compute.amazonaws.com:10333",
+      "ec2-35-176-221-253.eu-west-2.compute.amazonaws.com:10333",
+      "ec2-54-65-201-240.ap-northeast-1.compute.amazonaws.com"
+    ],
+    "SystemFee": {
+      "EnrollmentTransaction": 0,
+      "IssueTransaction": 0,
+      "PublishTransaction": 0,
+      "RegisterTransaction": 0
+    }
+  }
+}
