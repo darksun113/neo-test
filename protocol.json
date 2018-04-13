@@ -10,10 +10,10 @@
       "02610f162cef313bc9027de5738614496707e92437d50fea8b97548618807f16ee"
     ],
     "SeedList": [
-      "ec2-18-144-75-155.us-west-1.compute.amazonaws.com:10333",
-      "ec2-18-188-44-144.us-east-2.compute.amazonaws.com:10333",
-      "ec2-35-176-221-253.eu-west-2.compute.amazonaws.com:10333",
-      "ec2-54-65-201-240.ap-northeast-1.compute.amazonaws.com"
+      "ec2-54-183-71-188.us-west-1.compute.amazonaws.com:10333",
+      "ec2-13-59-35-106.us-east-2.compute.amazonaws.com:10333",
+      "ec2-35-176-236-117.eu-west-2.compute.amazonaws.com:10333",
+      "ec2-54-238-255-226.ap-northeast-1.compute.amazonaws.com:10333"
     ],
     "SystemFee": {
       "EnrollmentTransaction": 0,
